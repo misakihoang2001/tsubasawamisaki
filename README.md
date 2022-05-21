@@ -6,7 +6,7 @@
     - ✍️ Still noob but i always keep try harder to learn everything new.
     - 🌲 I'm interested in Unreal Engine 5 and about to study it.
 
-## 📗 Language
+## 📗 SKILL
 <p align="left">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
