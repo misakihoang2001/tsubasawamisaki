@@ -1,2 +1,1 @@
-
-Not git user xD
+Hi there
